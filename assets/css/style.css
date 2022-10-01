@@ -26,6 +26,11 @@ h1, h2 {
     text-transform: capitalize;
     font-size: 280%;
     text-align: center;
+    
+}
+
+#logo-a {
+    text-decoration: none;
 }
 
 /* navigation links */
