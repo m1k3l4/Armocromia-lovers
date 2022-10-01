@@ -9,4 +9,20 @@
 body {
     font-family: Playfair Display, serif;
     font-weight: 300;
+    color: #32161c
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Bodoni Moda, serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #040218;
+}
+
+#logo {
+    float: left;
+    text-transform: capitalize;
+    font-size: 280%;
 }
