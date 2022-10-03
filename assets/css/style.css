@@ -147,11 +147,17 @@ to {
     margin: 0 auto;
     background-color: green;
 }
-/*
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
+
 .left-about-heading {
-    width: 60px;
+    width: 60%;
     float: right;
     line-height: 30px;
     clear: both;
     margin-bottom: 50px;
-} */
+} 
