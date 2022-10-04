@@ -219,3 +219,18 @@ hr {
     width: 100%;
     overflow: hidden;
 }
+
+#times div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, 0.6);
+    float: left;
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+#times h2{
+    color: #fafafa;
+}
