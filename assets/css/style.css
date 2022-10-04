@@ -199,3 +199,15 @@ hr {
     border-radius: 50%;
 }
 
+#courses {
+    text-align: center;
+    margin: 50px 0;
+    font-size: 280%;
+}
+
+#courses-disclaimer {
+    text-align: center;
+    margin: 50px 0;
+    font-size: 150%;
+    color: #040218;
+}
