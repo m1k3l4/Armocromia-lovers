@@ -211,3 +211,11 @@ hr {
     font-size: 150%;
     color: #040218;
 }
+
+#times {
+    background: url('../css/images/Iceland-image.webp') no-repeat center center;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
