@@ -371,4 +371,20 @@ font-weight: 600;
  margin-bottom: 50px;
  display: block;
  overflow: hidden;
-}        
+}      
+
+/* Form */
+
+#form-about {
+    line-height: 30px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.form-section {
+    background: url('../css/images/seasons.jpg') no-repeat center center;
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
