@@ -383,8 +383,9 @@ font-weight: 600;
 }
 
 .form-section {
-    background: url('../css/images/seasons.jpg') no-repeat center center;
+    background: url('../css/images/seasons1.jpg') no-repeat center center;
     background-size: cover;
     background-position: center;
     height: 900px;
 }
+
