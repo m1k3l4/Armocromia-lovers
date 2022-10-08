@@ -258,6 +258,22 @@ footer {
 
 /* description page */
 
+#what-area {
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.what-about-heading {
+    line-height: 30px;
+}
+
+.what-about-heading > p {
+    margin-left: 30px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
 #what-about {
     text-align: center;
     margin: 50px 0;
