@@ -132,7 +132,6 @@ to {
     padding-top: 30px;
     width: 33%;
     float: left;
-   /* background-color: blue; */
 } 
 
 #right-about {
@@ -280,8 +279,73 @@ footer {
     font-size: 280%;
 }
 
+/* four seasons */
+
+#seasons-area {
+    height: 700px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
 #seasons-about {
     text-align: center;
     margin: 50px 0;
     font-size: 280%;
 }
+
+#winter-about {
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#winter-about h2 {
+    color: fuchsia;
+}
+
+#winter-about p {
+font-weight: 600;
+}
+
+#spring-about {
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#spring-about h2 {
+    color: coral;
+}
+
+#spring-about p {
+    font-weight: 600;
+    }
+
+#summer-about {
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    }
+
+#summer-about h2 {
+    color: teal;
+}    
+    
+#summer-about p {
+    font-weight: 600;
+    }    
+
+#fall-about {
+        line-height: 30px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+#fall-about h2 {
+    color: olive;
+}    
+        
+#fall-about p {
+        font-weight: 600;
+        }        
