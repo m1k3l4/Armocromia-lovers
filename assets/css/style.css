@@ -255,3 +255,17 @@ footer {
     padding: 5%;
     color: #040218;
 }
+
+/* description page */
+
+#what-about {
+    text-align: center;
+    margin: 50px 0;
+    font-size: 280%;
+}
+
+#seasons-about {
+    text-align: center;
+    margin: 50px 0;
+    font-size: 280%;
+}
