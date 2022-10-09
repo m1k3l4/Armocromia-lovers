@@ -413,6 +413,12 @@ font-weight: 600;
     hr {
         display: none;
     }
+
+    #cover-text {
+        left: 0;
+        position: sticky;
+    }
+
 }
 
 /* For medium screen sizes from 950px wide and down */
@@ -429,6 +435,8 @@ font-weight: 600;
 
     #cover-text {
         left: 0;
+        position: sticky;
+
     }
 
     #focus-area {
