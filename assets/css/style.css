@@ -426,6 +426,18 @@ font-weight: 600;
         position: sticky;
     }
 
+    #what-area {
+        width: 65%;
+        height: 300px;
+        margin: 0 auto;
+    }
+
+    #seasons-area {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
 }
 
 /* For medium screen sizes from 950px wide and down */
@@ -466,7 +478,8 @@ font-weight: 600;
         padding: 0 20px;
     }
 
-}
+    }
+
 
 /* Form */
 
