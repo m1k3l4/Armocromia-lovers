@@ -434,7 +434,7 @@ font-weight: 600;
 
     #seasons-area {
         width: 65%;
-        height: 1200px;
+        height: 900px;
         margin: 0 auto;
     }
 
@@ -476,6 +476,19 @@ font-weight: 600;
     .left-about-heading p, .right-about-heading p {
         text-align: center;
         padding: 0 20px;
+    }
+
+    #what-area {
+        width: 65%;
+        height: 400px;
+        margin: 0 auto;
+    }
+
+
+    #seasons-area {
+        width: 65%;
+        height: 900px;
+        margin: 0 auto;
     }
 
     }
