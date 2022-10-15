@@ -28,4 +28,12 @@ The website consists of the following sections:
 
 * A zoom effect animation was applied to the image, in order to shift the focus of attention on it.
 
-![Nav Bar]()
+![Nav Bar](https://github.com/m1k3l4/armocromia-lovers/blob/main/docs/images/landing-page.png)
+
+- __Focus area Section__
+
+* Focus area section is a first bite on what Armocromy can improve in users look style.It shows the benefits of approaching this revolutionary technique.
+
+* Users can evaluate whether to change their wardrobe, hairstyle or make-up. Or they may have a first approach to the four seasons of the color scheme.
+
+![Club Ethos]()
