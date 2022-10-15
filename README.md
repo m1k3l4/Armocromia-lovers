@@ -87,3 +87,10 @@ The website consists of the following sections:
 * The aim of the test is to receive an initial analysis of their palette, to be further explored in the future.
 
 ![Test section](https://github.com/m1k3l4/armocromia-lovers/blob/main/docs/images/discover-season.png)
+
+## Testing 
+
+* I tested the webpage with the following browsers: Chrome, Firefox, Edge. It works with all of them.
+* I used devtools to confirm that the different sections of this website are all responsive and good looking in all the screen size.
+* I experimented that all the different sections are simple to read and navigate.
+* I tried out the test form and it works very well: users cannot send the form before to fill all the mandatory areas and the submit button does its job.
