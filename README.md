@@ -20,4 +20,12 @@ The website consists of the following sections:
 
 * This section has been designed to give the possibility to move easily from page to page using all types of devices.This way users can easily go back to the previous page or skip to the next one, without clicking the back button.
 
+![Nav Bar](https://github.com/m1k3l4/armocromia-lovers/blob/main/docs/images/navbar.png)
+
+- __The landing page image__
+
+* This section includes a captivating image. It is deliberately sparkling because the shimmer refers to the idea of glamor and care of the look.
+
+* A zoom effect animation was applied to the image, in order to shift the focus of attention on it.
+
 ![Nav Bar]()
