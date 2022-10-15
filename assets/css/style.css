@@ -374,7 +374,7 @@ font-weight: 600;
 }
 
 .iframe-container {
- /* margin-left: 39%; */
+ text-align: center;
  margin-top: 30px;
  margin-bottom: 50px;
  display: block;
@@ -503,7 +503,7 @@ font-weight: 600;
     
         #seasons-area {
             width: 65%;
-            height: 1600px;
+            height: 1500px;
             margin: 0 auto;
         }
 
