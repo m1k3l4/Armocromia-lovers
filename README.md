@@ -12,3 +12,12 @@ The website consists of the following sections:
 1. Home
 2. Description
 3. Test
+
+### Existing Features
+
+- __Navigation Bar__
+* The nav bar is present in the three pages of the site. It is located under the logo and uses a soft color that immediately gives the idea of glamour and style. It includes links for Home, Description and Test and the same style has been chosen for each of them to give the idea of continuity to users.
+
+* This section has been designed to give the possibility to move easily from page to page using all types of devices.This way users can easily go back to the previous page or skip to the next one, without clicking the back button.
+
+![Nav Bar]()
