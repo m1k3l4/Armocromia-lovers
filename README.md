@@ -105,6 +105,29 @@ I have used two serif fonts:
 
 * For the rest of the website I have used a full wheel of color to give the feeling that all the users can find their best fitting colors.
 
+
+## Technologies
+
+* To help me to create this website, I have used different technologies:
+
+1. [HTML](https://www.w3schools.com/html/)
+
+2. [CSS](https://www.w3schools.com/css/default.asp)
+
+3. [Google Fonts](https://fonts.google.com/)
+
+4. [Font Awesome](https://fontawesome.com/start)
+
+5. [Github](https://github.com/)
+
+6. [Gitpod](https://gitpod.io)
+
+7. [Google DevTools](https://developer.chrome.com/docs/devtools/)
+
+8. [HTML Validator](https://validator.w3.org/)
+
+9. [CSS Validator](https://jigsaw.w3.org/css-validator/)
+
 ## Testing 
 
 * I tested the webpage with the following browsers: Chrome, Firefox, Edge. It works with all of them.
@@ -183,26 +206,4 @@ https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode
 * Video used in the website have been taken from Youtube:
 https://www.youtube.com/watch?v=GRxofEmo3HA&t=2124s
 
-
-## Technologies
-
-* To help me to create this website, I have used different technologies:
-
-1. [HTML](https://www.w3schools.com/html/)
-
-2. [CSS](https://www.w3schools.com/css/default.asp)
-
-3. [Google Fonts](https://fonts.google.com/)
-
-4. [Font Awesome](https://fontawesome.com/start)
-
-5. [Github](https://github.com/)
-
-6. [Gitpod](https://gitpod.io)
-
-7. [Google DevTools](https://developer.chrome.com/docs/devtools/)
-
-8. [HTML Validator](https://validator.w3.org/)
-
-9. [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
