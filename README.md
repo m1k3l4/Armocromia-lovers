@@ -78,6 +78,21 @@ The website consists of the following sections:
 
 ![Watch the video](https://github.com/m1k3l4/armocromia-lovers/blob/main/docs/images/watch.video.png)
 
+## Typography and color scheme
+
+* For the realization of this project I used two intriguing fonts and a color palette that recalled the world of glamor.
+
+### Fonts
+
+I have used two serif fonts:
+
+1. Bodoni Moda
+2. Playfair Display
+
+### Colors
+
+For the colors of this project I have used mainly pink and fuchsia shades because they immediately evoke a glamorous environment inspired to personal care. 
+
 - __Test section__
 
 * Test section is the last part to visit in the website. After a virtual journey into the land of colors, users are now intrigued and they want to know more about their color palette.
