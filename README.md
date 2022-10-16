@@ -129,10 +129,10 @@ This website was deployed using Github. I performed the following steps:
 5. Down Build and deployment field, you have the Source option and a dropdown menu. Select branch 'Master' and save
 6. The page will generate a website URL. You can find a preview at the screenshot below:
 
-![Deployment] ()
+![Deployment] (https://github.com/m1k3l4/armocromia-lovers/blob/main/docs/images/deployment-armocromy.png)
 
 Please find attached the link below:
 
 https://m1k3l4.github.io/armocromia-lovers/
 
-! Keep in mind that the could need some time before to be completely live.
+! Keep in mind that the URL could need some time before to be completely live.
