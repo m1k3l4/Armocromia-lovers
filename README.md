@@ -128,6 +128,8 @@ I have used two serif fonts:
 
 9. [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
+10. [CSS Formatter](https://www.cleancss.com/css-beautify/)
+
 ## Testing 
 
 * I tested the webpage with the following browsers: Chrome, Firefox, Edge. It works with all of them.
