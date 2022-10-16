@@ -78,6 +78,16 @@ The website consists of the following sections:
 
 ![Watch the video](https://github.com/m1k3l4/armocromia-lovers/blob/main/docs/images/watch.video.png)
 
+- __Test section__
+
+* Test section is the last part to visit in the website. After a virtual journey into the land of colors, users are now intrigued and they want to know more about their color palette.
+
+* They can fill a form providing some basic info as Name, Last Name and Email Address. They can also complete the form with the main characteristics of their prototype: skin tone, hair color and eye color.
+
+* The aim of the test is to receive an initial analysis of their palette, to be further explored in the future.
+
+![Test section](https://github.com/m1k3l4/armocromia-lovers/blob/main/docs/images/discover-season.png)
+
 ## Typography and color scheme
 
 * For the realization of this project I used two intriguing fonts and a color palette that recalled the world of glamor.
@@ -91,17 +101,9 @@ I have used two serif fonts:
 
 ### Colors
 
-For the colors of this project I have used mainly pink and fuchsia shades because they immediately evoke a glamorous environment inspired to personal care. 
+* For the colors of this project I have used mainly pink and fuchsia shades because they immediately evoke a glamorous environment inspired to personal care. 
 
-- __Test section__
-
-* Test section is the last part to visit in the website. After a virtual journey into the land of colors, users are now intrigued and they want to know more about their color palette.
-
-* They can fill a form providing some basic info as Name, Last Name and Email Address. They can also complete the form with the main characteristics of their prototype: skin tone, hair color and eye color.
-
-* The aim of the test is to receive an initial analysis of their palette, to be further explored in the future.
-
-![Test section](https://github.com/m1k3l4/armocromia-lovers/blob/main/docs/images/discover-season.png)
+* For the rest of the website I have used a full wheel of color to give the feeling that all the users can find their best fitting colors.
 
 ## Testing 
 
