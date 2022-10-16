@@ -136,3 +136,32 @@ Please find attached the link below:
 https://m1k3l4.github.io/armocromia-lovers/
 
 ! Keep in mind that the URL could need some time before to be completely live.
+
+## Credits
+
+* I have used the following website for guidance:
+
+- https://www.w3schools.com/
+
+### Content 
+
+* Contents for home and description pages were written by me
+
+* Parts of the code for the site structure were inspired by the Love running Project, from Code Institute ( Home, Test page)
+https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode
+
+* All the icons in the website were taken from [Font Awesome](https://fontawesome.com/)
+
+### Media
+
+* Photos used in the website have been taken from Google Images from open sources sites :
+https://www.google.com/imghp?hl=en
+https://www.pexels.com/it-it/cerca/sparkle/
+https://nisifilters.it/guida-pratica-alle-lunghe-esposizioni/
+https://www.fashionlifestyle.it/wp-content/uploads/2019/12/armocromia-768x432.jpg
+https://trucchi.tv/wp-content/uploads/2020/08/colori-armocromia.jpg
+
+* Video used in the website have been taken from Youtube:
+https://www.youtube.com/watch?v=GRxofEmo3HA&t=2124s
+
+
