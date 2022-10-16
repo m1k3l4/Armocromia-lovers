@@ -94,3 +94,25 @@ The website consists of the following sections:
 * I used devtools to confirm that the different sections of this website are all responsive and good looking in all the screen size.
 * I experimented that all the different sections are simple to read and navigate.
 * I tried out the test form and it works very well: users cannot send the form before to fill all the mandatory areas and the submit button does its job.
+
+### Validator Testing
+
+* I have tested my website with two tools:
+
+- HTML: I have used W3C validator for HTML, [W3C validator](https://validator.w3.org/) and I have found no error
+
+![HTML Validator]()
+
+- CSS I have used W3C validator for CSS, [W3C validator]https://jigsaw.w3.org/css-validator/) and I have found no error
+
+![CSS Validator]()
+
+* I have also used Lighthouse that is a feature of Google Chrome developer tools, to test the accesibility score of my website.
+
+* I have tested it for both mobile and desktop devices:
+
+![Lighthouse desktop]()
+
+![Lighthouse mobile]()
+
+
