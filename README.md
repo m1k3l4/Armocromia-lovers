@@ -101,18 +101,18 @@ The website consists of the following sections:
 
 - HTML: I have used W3C validator for HTML, [W3C validator](https://validator.w3.org/) and I have found no error
 
-![HTML Validator]()
+![HTML Validator](https://github.com/m1k3l4/armocromia-lovers/blob/main/docs/images/html-validator-completed.PNG)
 
 - CSS I have used W3C validator for CSS, [W3C validator]https://jigsaw.w3.org/css-validator/) and I have found no error
 
-![CSS Validator]()
+![CSS Validator](https://github.com/m1k3l4/armocromia-lovers/blob/main/docs/images/css-validator-completed.PNG)
 
 * I have also used Lighthouse that is a feature of Google Chrome developer tools, to test the accesibility score of my website.
 
 * I have tested it for both mobile and desktop devices:
 
-![Lighthouse desktop]()
+![Lighthouse desktop](https://github.com/m1k3l4/armocromia-lovers/blob/main/docs/images/lighthouse-desktop.png)
 
-![Lighthouse mobile]()
+![Lighthouse mobile](https://github.com/m1k3l4/armocromia-lovers/blob/main/docs/images/lighthouse-mobile.png)
 
 
