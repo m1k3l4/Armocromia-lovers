@@ -143,6 +143,8 @@ https://m1k3l4.github.io/armocromia-lovers/
 
 - https://www.w3schools.com/
 
+- https://developer.mozilla.org/en-US/
+
 ### Content 
 
 * Contents for home and description pages were written by me
@@ -155,13 +157,35 @@ https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode
 ### Media
 
 * Photos used in the website have been taken from Google Images from open sources sites :
-https://www.google.com/imghp?hl=en
-https://www.pexels.com/it-it/cerca/sparkle/
-https://nisifilters.it/guida-pratica-alle-lunghe-esposizioni/
-https://www.fashionlifestyle.it/wp-content/uploads/2019/12/armocromia-768x432.jpg
-https://trucchi.tv/wp-content/uploads/2020/08/colori-armocromia.jpg
+- https://www.google.com/imghp?hl=en
+- https://www.pexels.com/it-it/cerca/sparkle/
+- https://nisifilters.it/guida-pratica-alle-lunghe-esposizioni/
+- https://www.fashionlifestyle.it/wp-content/uploads/2019/12/armocromia-768x432.jpg
+- https://trucchi.tv/wp-content/uploads/2020/08/colori-armocromia.jpg
 
 * Video used in the website have been taken from Youtube:
 https://www.youtube.com/watch?v=GRxofEmo3HA&t=2124s
 
+
+## Technologies
+
+* To help me to create this website, I have used different technologies:
+
+1. [HTML](https://www.w3schools.com/html/)
+
+2. [CSS](https://www.w3schools.com/css/default.asp)
+
+3. [Google Fonts](https://fonts.google.com/)
+
+4. [Font Awesome](https://fontawesome.com/start)
+
+5. [Github](https://github.com/)
+
+6. [Gitpod](https://gitpod.io)
+
+7. [Google DevTools](https://developer.chrome.com/docs/devtools/)
+
+8. [HTML Validator](https://validator.w3.org/)
+
+9. [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
