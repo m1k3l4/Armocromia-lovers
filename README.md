@@ -157,6 +157,16 @@ I have used two serif fonts:
 
 ![Lighthouse mobile](https://github.com/m1k3l4/armocromia-lovers/blob/main/docs/images/lighthouse-mobile.png)
 
+## Form test
+
+* I have tested that the form insiede the website works:
+
+1. Go into the Test page trough the navbar
+2. Fill all the mandatory fields: Name,Surname,Email Address
+3. Select the preferred options for skin tone, hair color, eyes color
+4. Press the submition button
+5. You will be redirected into the Thank you page
+
 
 ## Deployment
 
