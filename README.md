@@ -103,9 +103,11 @@ The website consists of the following sections:
 
 ![HTML Validator](https://github.com/m1k3l4/armocromia-lovers/blob/main/docs/images/html-validator-completed.PNG)
 
-- CSS I have used W3C validator for CSS, [W3C validator]https://jigsaw.w3.org/css-validator/) and I have found no error
+- CSS I have used W3C validator for CSS, [W3C validator](https://jigsaw.w3.org/css-validator/) and I have found no error
 
 ![CSS Validator](https://github.com/m1k3l4/armocromia-lovers/blob/main/docs/images/css-validator-completed.PNG)
+
+### Lighthouse
 
 * I have also used Lighthouse that is a feature of Google Chrome developer tools, to test the accesibility score of my website.
 
@@ -116,3 +118,21 @@ The website consists of the following sections:
 ![Lighthouse mobile](https://github.com/m1k3l4/armocromia-lovers/blob/main/docs/images/lighthouse-mobile.png)
 
 
+## Deployment
+
+This website was deployed using Github. I performed the following steps:
+
+1. Connect to GitHub page
+2. Go into Repository section and opt for the repository you have selected before
+3. From the horizontal menu bar select the Setting option
+4. Now you have a vertical menu bar, select the option Pages
+5. Down Build and deployment field, you have the Source option and a dropdown menu. Select branch 'Master' and save
+6. The page will generate a website URL. You can find a preview at the screenshot below:
+
+![Deployment] ()
+
+Please find attached the link below:
+
+https://m1k3l4.github.io/armocromia-lovers/
+
+! Keep in mind that the could need some time before to be completely live.
